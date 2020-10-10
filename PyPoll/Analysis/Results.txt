@@ -1,0 +1,15 @@
+Election Results
+-------------------------------
+Total Votes:1048574
+-------------------------------
+Khan: 661582
+Khan Percentage 63.0%
+Correy:209046
+Correy Percentage 20.0%
+Li:146360
+Li Percentage 14.0%
+O'Tooley:31586
+O'Tooley Percentage 3.0%
+-------------------------------
+Winner: Khan
+-------------------------------
